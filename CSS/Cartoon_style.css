@@ -46,11 +46,12 @@ footer {
 }
 
 .rights {
+    width:25vmin;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 15vmin;
-    width: 100%;
+    
     text-align: center;
     margin-top: 3vmin;
 }
