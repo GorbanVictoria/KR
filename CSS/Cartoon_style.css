@@ -13,23 +13,30 @@ header {
     justify-content: center;
 }
 
-nav {
-    max-width: 200vmin;
-    flex-wrap: wrap;
-    display: flex;
-    justify-content: space-around;
-    text-decoration: none;
-    position: absolute;
-    z-index: 20;
-    margin-top: 3vmin;
+nav{
+    max-width:200vmin;
+    display:flex;
+   justify-content:center;
+    text-decoration:none;
+    position:absolute;
+    z-index:20;
+    margin-top:3vmin;
 }
 
+.nav_in {
+    max-width: 200vmin;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
 .f {
+    width:25vmin;
     text-decoration: none;
     color: white;
     font-weight: 500;
     font-size: 20px;
     position: relative;
+    
 }
 
 footer {
