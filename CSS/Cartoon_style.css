@@ -8,11 +8,10 @@
     flex-direction: column;
 }
 
-header {
-    display: flex;
-    justify-content: center;
+header{
+    display:flex;
+    justify-content:center;
 }
-
 nav{
     max-width:200vmin;
     display:flex;
@@ -36,7 +35,6 @@ nav{
     font-weight: 500;
     font-size: 20px;
     position: relative;
-    margin-left:10vmin;
     
 }
 
